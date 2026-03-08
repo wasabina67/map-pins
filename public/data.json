@@ -34,7 +34,7 @@
         { "id": 40007, "name": "海の駅ぷらっとみなと市場", "category_key": "food", "lat": 42.630586, "lng": 141.615804, "description": "description", "visible": true },
         { "id": 40008, "name": "炭焼牛たん 赤兵衛分店", "category_key": "food", "lat": 42.669879, "lng": 141.695246, "description": "description", "visible": true },
         { "id": 40009, "name": "月寒あんぱん本舗 月寒総本店", "category_key": "food", "lat": 43.029289, "lng": 141.396853, "description": "description", "visible": true },
-        { "id": 40010, "name": "勝味禁 本店", "category_key": "food", "lat": 35.999417, "lng": 138.136395, "description": "description", "visible": true },
+        { "id": 40010, "name": "勝味庵 本店", "category_key": "food", "lat": 35.999417, "lng": 138.136395, "description": "description", "visible": true },
         { "id": 40011, "name": "そばごころ小坂", "category_key": "food", "lat": 36.044119, "lng": 138.116474, "description": "description", "visible": true },
         { "id": 40012, "name": "角上魚類 諏訪店", "category_key": "food", "lat": 36.032415, "lng": 138.116762, "description": "description", "visible": true }
     ]
