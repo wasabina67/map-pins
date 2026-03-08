@@ -9,14 +9,33 @@
         { "id": 10001, "name": "富士山", "category_key": "hiking", "lat": 35.3606, "lng": 138.7274, "description": "description", "visible": true },
         { "id": 10002, "name": "北岳", "category_key": "hiking", "lat": 35.6745, "lng": 138.2359, "description": "description", "visible": true },
         { "id": 10003, "name": "奥穂高岳", "category_key": "hiking", "lat": 36.2883, "lng": 137.6489, "description": "description", "visible": true },
+        { "id": 10004, "name": "立山", "category_key": "hiking", "lat": 36.575833, "lng": 137.619722, "description": "description", "visible": true },
+        { "id": 10005, "name": "八方池", "category_key": "hiking", "lat": 36.694215, "lng": 137.784514, "description": "description", "visible": true },
 
         { "id": 20001, "name": "草津温泉", "category_key": "onsen", "lat": 36.6181, "lng": 138.5960, "description": "description", "visible": true },
         { "id": 20002, "name": "有馬温泉", "category_key": "onsen", "lat": 34.7994, "lng": 135.2487, "description": "description", "visible": true },
         { "id": 20003, "name": "下呂温泉", "category_key": "onsen", "lat": 35.8077, "lng": 137.2446, "description": "description", "visible": true },
         { "id": 20004, "name": "別府温泉", "category_key": "onsen", "lat": 33.2846, "lng": 131.4914, "description": "description", "visible": true },
+        { "id": 20005, "name": "登別地獄谷", "category_key": "onsen", "lat": 42.497623, "lng": 141.148660, "description": "description", "visible": true },
+        { "id": 20006, "name": "妹背牛温泉ペペル", "category_key": "onsen", "lat": 43.699532, "lng": 141.959253, "description": "description", "visible": true },
+        { "id": 20007, "name": "唐沢鉱泉 八ヶ岳秘湯の宿", "category_key": "onsen", "lat": 36.024581, "lng": 138.329216, "description": "description", "visible": true },
+        { "id": 20008, "name": "蓼科温泉 小斎の湯", "category_key": "onsen", "lat": 36.055574, "lng": 138.263603, "description": "description", "visible": true },
 
         { "id": 30001, "name": "東京駅", "category_key": "sightseeing", "lat": 35.6812, "lng": 139.7671, "description": "description", "visible": true },
+        { "id": 30002, "name": "白樺湖", "category_key": "sightseeing", "lat": 36.105433, "lng": 138.235759, "description": "description", "visible": true },
+        { "id": 30003, "name": "御射鹿池", "category_key": "sightseeing", "lat": 36.033082, "lng": 138.292057, "description": "description", "visible": true },
 
-        { "id": 40001, "name": "鮨 銀座おのでら 総本店", "category_key": "food", "lat": 35.6686, "lng": 139.7669, "description": "description", "visible": true }
+        { "id": 40001, "name": "鮨 銀座おのでら 総本店", "category_key": "food", "lat": 35.6686, "lng": 139.7669, "description": "description", "visible": true },
+        { "id": 40002, "name": "AFURI辛紅 新宿サブナード", "category_key": "food", "lat": 35.693618, "lng": 139.700332, "description": "description", "visible": true },
+        { "id": 40003, "name": "川豊本店", "category_key": "food", "lat": 35.783388, "lng": 140.316726, "description": "description", "visible": true },
+        { "id": 40004, "name": "鳥一", "category_key": "food", "lat": 35.700270, "lng": 139.984727, "description": "description", "visible": true },
+        { "id": 40005, "name": "美加登家", "category_key": "food", "lat": 34.545629, "lng": 131.836563, "description": "description", "visible": true },
+        { "id": 40006, "name": "小樽 北のどんぶり屋 滝波食堂", "category_key": "food", "lat": 43.198846, "lng": 140.993754, "description": "description", "visible": true },
+        { "id": 40007, "name": "海の駅ぷらっとみなと市場", "category_key": "food", "lat": 42.630586, "lng": 141.615804, "description": "description", "visible": true },
+        { "id": 40008, "name": "炭焼牛たん 赤兵衛分店", "category_key": "food", "lat": 42.669879, "lng": 141.695246, "description": "description", "visible": true },
+        { "id": 40009, "name": "月寒あんぱん本舗 月寒総本店", "category_key": "food", "lat": 43.029289, "lng": 141.396853, "description": "description", "visible": true },
+        { "id": 40010, "name": "勝味禁 本店", "category_key": "food", "lat": 35.999417, "lng": 138.136395, "description": "description", "visible": true },
+        { "id": 40011, "name": "そばごころ小坂", "category_key": "food", "lat": 36.044119, "lng": 138.116474, "description": "description", "visible": true },
+        { "id": 40012, "name": "角上魚類 諏訪店", "category_key": "food", "lat": 36.032415, "lng": 138.116762, "description": "description", "visible": true }
     ]
 }
