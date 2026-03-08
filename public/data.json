@@ -8,18 +8,15 @@
     "locations": [
         { "id": 10001, "name": "富士山", "category_key": "hiking", "lat": 35.3606, "lng": 138.7274, "description": "description", "visible": true },
         { "id": 10002, "name": "北岳", "category_key": "hiking", "lat": 35.6745, "lng": 138.2359, "description": "description", "visible": true },
-        { "id": 10003, "name": "槍ヶ岳", "category_key": "hiking", "lat": 36.3419, "lng": 137.6478, "description": "description", "visible": true },
+        { "id": 10003, "name": "奥穂高岳", "category_key": "hiking", "lat": 36.2883, "lng": 137.6489, "description": "description", "visible": true },
 
         { "id": 20001, "name": "草津温泉", "category_key": "onsen", "lat": 36.6181, "lng": 138.5960, "description": "description", "visible": true },
         { "id": 20002, "name": "有馬温泉", "category_key": "onsen", "lat": 34.7994, "lng": 135.2487, "description": "description", "visible": true },
-        { "id": 20003, "name": "別府温泉", "category_key": "onsen", "lat": 33.2846, "lng": 131.4914, "description": "description", "visible": true },
+        { "id": 20003, "name": "下呂温泉", "category_key": "onsen", "lat": 35.8077, "lng": 137.2446, "description": "description", "visible": true },
+        { "id": 20004, "name": "別府温泉", "category_key": "onsen", "lat": 33.2846, "lng": 131.4914, "description": "description", "visible": true },
 
-        { "id": 30001, "name": "浅草寺", "category_key": "sightseeing", "lat": 35.7148, "lng": 139.7967, "description": "description", "visible": true },
-        { "id": 30002, "name": "金閣寺", "category_key": "sightseeing", "lat": 35.0394, "lng": 135.7292, "description": "description", "visible": true },
-        { "id": 30003, "name": "厳島神社", "category_key": "sightseeing", "lat": 34.2957, "lng": 132.3194, "description": "description", "visible": true },
+        { "id": 30001, "name": "東京駅", "category_key": "sightseeing", "lat": 35.6812, "lng": 139.7671, "description": "description", "visible": true },
 
-        { "id": 40001, "name": "道頓堀", "category_key": "food", "lat": 34.6687, "lng": 135.5014, "description": "description", "visible": true },
-        { "id": 40002, "name": "築地場外市場", "category_key": "food", "lat": 35.6654, "lng": 139.7707, "description": "description", "visible": true },
-        { "id": 40003, "name": "札幌ラーメン横丁", "category_key": "food", "lat": 43.0567, "lng": 141.3528, "description": "description", "visible": true }
+        { "id": 40001, "name": "鮨 銀座おのでら 総本店", "category_key": "food", "lat": 35.6686, "lng": 139.7669, "description": "description", "visible": true }
     ]
 }
